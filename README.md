@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 🔗 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Tochi-Nwagu/frontend-mentors-qr-code-challenge
+- Live Site URL: https://tochi-nwagu.github.io/frontend-mentors-qr-code-challenge/
 
 🎯 My process
 
@@ -73,7 +73,7 @@ CSS Tricks Flexbox Guide
 
 🤵 Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://tochi-nwagu.github.io/frontend-mentors-qr-code-challenge/
 - Frontend Mentor -https://www.frontendmentor.io/profile/Tochi-Nwagu
 
 
