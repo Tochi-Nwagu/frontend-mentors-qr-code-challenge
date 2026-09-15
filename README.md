@@ -59,7 +59,7 @@ body {
 
 🚀 Continued development
 
-In future projects, I want to focus more on:
+In future projects, will focus more on:
 Mobile-first design
 CSS Grid
 Accessibility best practices
@@ -80,4 +80,4 @@ CSS Tricks Flexbox Guide
 
 🙏 Acknowledgments
 
-Thanks to Frontend Mentor for providing real world frontend challenges that help developers improve their coding skills.
+Grateful for the opporunity of having real world frontend challenges that help developers improve their coding skills.
