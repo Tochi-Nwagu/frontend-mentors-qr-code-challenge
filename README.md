@@ -43,16 +43,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 During this project, I practised:
 
 Creating responsive layouts with CSS
-Using Flexbox for centring elements
+Using Flexbox for centring elements using justify-content and align -items.
 Working with images and card-based UI components
-Understanding the difference between fixed widths and responsive widths
+Understanding the difference between fixed widths and responsive widths so that it remains responsive across different devices.
 
 ```css
 body {
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
